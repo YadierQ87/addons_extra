@@ -109,5 +109,4 @@
         <field name="sequence" type="int">99</field>
     </record>
 
-
 </odoo>
